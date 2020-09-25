@@ -34,12 +34,12 @@
 <br />
 <br />
 
-<details>
-  <summary>:zap: Github Stats</summary>
 
-  <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats-pearl-theta.vercel.app/api?username=gabaudette&show_icons=true&hide_border=true" />
+<p>:zap: Github Stats</p>
 
-</details>
+<img align="left" alt="Gabriel Audette's Github Stats" src="https://github-readme-stats-pearl-theta.vercel.app/api?username=gabaudette&show_icons=true&hide_border=true&theme=tokyonight" />
+
+
 
 
 [twitter]: https://twitter.com/gabaudette
