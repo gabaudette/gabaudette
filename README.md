@@ -1,5 +1,5 @@
-## Hi, I'm Gabriel Audette
-### I'm a Junior Web Developer :nerd_face:[@Blanko]
+## Hi, I'm Gabriel Audette :nerd_face:
+### I'm a Junior Web Developer [@Blanko]
 
 <br />
 <br />
