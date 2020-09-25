@@ -5,8 +5,8 @@
 
 ### Social links
 
-[<img align="left" alt="facebook"| LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
-[<img align="left" alt="facebook"| LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="facebook"| Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
+[<img align="left" alt="linkedin"| LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="twitter" | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 
 <br />
@@ -27,10 +27,10 @@
 
 
 
-[twiter] : https://twitter.com/gabaudette
-[linkedin] : https://www.linkedin.com/in/gabriel-audette/
-[facebook] : https://www.facebook.com/gabriel.audette/
-[blankonumerique] : https://www.blanko.ca
+[twiter]: https://twitter.com/gabaudette
+[linkedin]: https://www.linkedin.com/in/gabriel-audette/
+[facebook]: https://www.facebook.com/gabriel.audette/
+[blankonumerique]: https://www.blanko.ca
 
 <details>
   <summary>:zap: Github Stats</summary>
