@@ -1,5 +1,5 @@
 ### Hi, I'm Gabriel Audette
-## I'm a Junior Web Developer @Blanko [blankonumerique]
+## I'm a Junior Web Developer [@Blanko]
 
 <br />
 
@@ -39,7 +39,7 @@
 [twitter]: https://twitter.com/gabaudette
 [linkedin]: https://www.linkedin.com/in/gabriel-audette/
 [facebook]: https://www.facebook.com/gabriel.audette/
-[blankonumerique]: https://www.blanko.ca
+[@Blanko]: https://www.blanko.ca
 [emptylink]: #
 
 
