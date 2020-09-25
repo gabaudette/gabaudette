@@ -27,6 +27,8 @@
 [<img align="left" alt="CSharp" width="26px" src="https://devicon.dev/devicon.git/icons/csharp/csharp-original.svg" />][emptylink]
 [<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />][emptylink]
 [<img align="left" alt="Yaml" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/yaml/yaml.png" />][emptylink]
+[<img align="left" alt="Yaml" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/yaml/yaml.png" />][emptylink]
+[<img align="left" alt="Json" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/json/json.png" />][emptylink]
 
 
 <br />
@@ -45,7 +47,7 @@
 [linkedin]: https://www.linkedin.com/in/gabriel-audette/
 [facebook]: https://www.facebook.com/gabriel.audette/
 [@Blanko]: https://www.blanko.ca
-[emptylink]: #
+[emptylink]: ?
 
 
 
