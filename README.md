@@ -1,7 +1,7 @@
 ## Hi, I'm Gabriel Audette
 ### I'm a Junior Web Developer [@Blanko]
 
-### Languages and Tools:
+### :wrench: Languages and Tools
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][emptylink]
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][emptylink]
@@ -21,7 +21,7 @@
 
 <br />
 
-### Social links
+### :globe_with_meridians: Social links
 
 [<img align="left" alt="facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 [<img align="left" alt="linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
@@ -31,7 +31,7 @@
 <br />
 <br />
 
-<p>:zap: Github Stats</p>
+### :zap: Github Stats
 
 <img align="left" alt="Gabriel Audette's Github Stats" src="https://github-readme-stats-pearl-theta.vercel.app/api?username=gabaudette&show_icons=true&hide_border=true&theme=tokyonight" />
 
