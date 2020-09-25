@@ -27,7 +27,7 @@
 
 
 
-[twiter]: https://twitter.com/gabaudette
+[twitter]: https://twitter.com/gabaudette
 [linkedin]: https://www.linkedin.com/in/gabriel-audette/
 [facebook]: https://www.facebook.com/gabriel.audette/
 [blankonumerique]: https://www.blanko.ca
