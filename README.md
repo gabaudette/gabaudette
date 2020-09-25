@@ -2,7 +2,7 @@
 ### I'm a Junior Web Developer [@Blanko]
 
 ### :wrench: Languages and Tools
-<hr />
+
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][emptylink]
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][emptylink]
 [<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][emptylink]
@@ -24,7 +24,7 @@
 <br />
 
 ### :globe_with_meridians: Social links
-<hr />
+
 [<img align="left" alt="facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 [<img align="left" alt="linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="twitter"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
@@ -34,7 +34,7 @@
 <br />
 
 ### :zap: Github Stats
-<hr />
+
 <img align="left" alt="Gabriel Audette's Github Stats" src="https://github-readme-stats-pearl-theta.vercel.app/api?username=gabaudette&show_icons=true&hide_border=true&theme=tokyonight" />
 
 
