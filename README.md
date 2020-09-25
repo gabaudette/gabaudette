@@ -1,5 +1,8 @@
 ## Hi, I'm Gabriel Audette
-### I'm a Junior Web Developer [@Blanko]
+### I'm a Junior Web Developer :nerd_face:[@Blanko]
+
+<br />
+<br />
 
 ### :wrench: Languages and Tools
 
@@ -21,7 +24,6 @@
 
 <br />
 <br />
-<br />
 
 ### :globe_with_meridians: Social links
 
@@ -29,7 +31,6 @@
 [<img align="left" alt="linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="twitter"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 
-<br />
 <br />
 <br />
 
