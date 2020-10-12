@@ -35,7 +35,7 @@
 
 ### :zap: Github Stats
 
-<img align="left" alt="Gabriel Audette's Github Stats" src="https://github-readme-stats-pearl-theta.vercel.app/api?username=gabaudette&show_icons=true&hide_border=true&theme=tokyonight" />
+<!--<img align="left" alt="Gabriel Audette's Github Stats" src="https://github-readme-stats-pearl-theta.vercel.app/api?username=gabaudette&show_icons=true&hide_border=true&theme=tokyonight" />-->
 
 
 
