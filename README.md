@@ -1,5 +1,5 @@
 ## Hi, I'm Gabriel Audette :nerd_face:
-### I'm a Junior Web Developer [@Blanko]
+### I'm a Junior Web Developer [@Recursyve]
 
 <br />
 <br />
