@@ -1,5 +1,5 @@
 ## Hi, I'm Gabriel Audette :coffee:
-###  Web dev [@Recursyve]
+###  Web dev [@Recursyve][recursyve]
 
 <br />
 <br />
@@ -33,7 +33,7 @@
 [twitter]: https://twitter.com/gabaudette
 [linkedin]: https://www.linkedin.com/in/gabriel-audette/
 [facebook]: https://www.facebook.com/gabriel.audette/
-[@Blanko]: https://www.blanko.ca
+[recursyve]: https://recursyve.io/
 [emptylink]: ?
 
 
