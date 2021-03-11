@@ -19,7 +19,6 @@
 ### :globe_with_meridians: Social links
 [<img align="left" alt="facebook" style="fill: #fff; stroke: #fff" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 [<img align="left" alt="linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="twitter"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 </div>
 
 <br />
@@ -27,14 +26,7 @@
 
 <!--<img align="left" alt="Gabriel Audette's Github Stats" src="https://github-readme-stats-pearl-theta.vercel.app/api?username=gabaudette&show_icons=true&hide_border=true&theme=tokyonight" />-->
 
-
-
-
-[twitter]: https://twitter.com/gabaudette
 [linkedin]: https://www.linkedin.com/in/gabriel-audette/
 [facebook]: https://www.facebook.com/gabriel.audette/
 [recursyve]: https://recursyve.io/
 [emptylink]: ?
-
-
-
